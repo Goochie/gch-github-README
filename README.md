@@ -21,7 +21,6 @@ Intro section
 
 ### Payload
 
-
 **[Back to top](#table-of-contents)**
 
 ## Demo
