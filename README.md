@@ -11,7 +11,7 @@ Intro section
 
 ## Implementation
 
-### Dependencys
+### Dependencies
 
 ### Installation
 
